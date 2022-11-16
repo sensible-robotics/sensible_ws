@@ -1,0 +1,2 @@
+# Perception packages
+- git: {local-name: , uri: 'git@github.com:sensible-robotics/perception_tools', version: 'devel'}
