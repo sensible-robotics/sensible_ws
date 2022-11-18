@@ -7,4 +7,5 @@ cd sensible_ws
 source /opt/ros/noetic/setup.bash
 catkin init
 rosinstall . .rosinstall
+catkin build
 ```
