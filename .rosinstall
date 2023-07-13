@@ -5,3 +5,7 @@
 # IF YOU CHANGE IT, USE rosinstall FOR THE CHANGES TO TAKE EFFECT
 - git: {local-name: src/perception_tools, uri: 'git@github.com:sensible-robotics/perception_tools',
     version: devel}
+- git: {local-name: src/reach, uri: 'git@github.com:ros-industrial/reach', version: master}
+- git: {local-name: src/trac_ik, uri: 'git@bitbucket.org:traclabs/trac_ik', version: master}
+- git: {local-name: src/reachability_tools, uri: 'git@github.com:sensible-robotics/reachability_tools',
+    version: devel}
